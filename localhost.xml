@@ -1,0 +1,9 @@
+<config>
+    <host>localhost</host>
+    <port>5432</port>
+    <database>mydb</database>
+    <user>myuser</user>
+    <password>mypassword</password>
+    <mode>RW</mode>
+</config>
+
