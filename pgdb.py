@@ -100,3 +100,9 @@ class database( object ):
 
     def getConnCursor( self ):
         return ( self.conn, self.cursor )
+
+    def getConn( self ):
+	return self.conn
+
+    def getCursor( self )
+	return self.cursor
